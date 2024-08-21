@@ -36,7 +36,7 @@ This project is a full-stack, single-page application built using the MERN (Mong
 npm install
 3. **Set up environment variables**:
 MONGO_URI=your_mongodb_connection_string
- VITE_API_URL=http://localhost:8000
+ VITE_API_URL=http://localhost:3000
 FIREBASE_API_KEY=your_firebase_api_key
 FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
 4. **Start the development servers**:
